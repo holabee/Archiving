@@ -4,11 +4,13 @@
 
 ## :calendar: 프로젝트 기간
 
--   22.01.22 ~ 22.01.22
+-   22.01.22 ~ 22.MM.DD
 
 <br>
 
-## :cyclone: [작업 기록](https://github.com/holabee/Archiving/tree/master/archiving)
+## :cyclone: Infromation
+
+- [작업 기록](https://github.com/holabee/Archiving/tree/master/archiving)
 
 <br>
 
