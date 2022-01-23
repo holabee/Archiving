@@ -1,3 +1,5 @@
+import CodeInput from '../components/CodeInput';
+
 export default {
     name: 'code',
     title: 'Code',
@@ -21,6 +23,7 @@ export default {
             title: 'Code',
             type: 'string',
             validation: (Rule) => Rule.required(),
+            inputComponent: CodeInput,
         },
     ],
 };
