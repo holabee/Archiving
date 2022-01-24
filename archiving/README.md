@@ -27,6 +27,11 @@ sanity deploy
 
 <br>
 
+## :blush: Technology
+
+
+<br>
+
 ## :cyclone: [결과물](https://function-holabee.sanity.studio/)
 
 <br>
